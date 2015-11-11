@@ -1,0 +1,24 @@
+1
+Diff helped view the difference between two versions because it
+went though the code very quickly.
+2
+Easy access to the entire history will let you quickly go back and 
+see the changes you made to previous versions
+3 
+the pros to manually choosing when to create a commit are:
+you will be able to commit when you want to,
+you can commit in small or large units, and
+you can always make sure a task is finished
+the cons to maually choosing when to create a commit are:
+you may forget,
+the manuel commits may be too infrequent or too frequent,
+and more
+4
+git saves multiple files in one commit to see all the changes to all the files. It would be inefficient if a commit had to be separately done for each file.
+I can use git log to see log of commits, and then I use git diff <commit number1> <commitnumber2> to see changes 
+this will help you see the history
+5
+version control allows one to become more confident when breaking something because it allows easy access to previous versions. To open an old verion use git checkout <commitnumber>
+6
+I want to use git for all of my version controls and backups
+
