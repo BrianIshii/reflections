@@ -4,3 +4,5 @@ How is the staging area different from the working directory and the repository?
 The staging area is different from the working directory because you can add files from the working directory. It is where you bundle the files, and then these files are added to the repository. The value it offers is that you get to choose what you want to commit.
 How can you use the staging area to make sure you have one commit per logical change?
 You can use the staging area to add only one change at a time. This means that when you commit you will only commit the changes you added to the staging area.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+branches would be helpful in keeping your history organized because you can make different versions and have different saves. This helps you make one for a different language or experimental code. Branches help creat different versions without affecting the master version.
