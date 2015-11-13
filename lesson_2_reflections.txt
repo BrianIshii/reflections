@@ -6,3 +6,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 You can use the staging area to add only one change at a time. This means that when you commit you will only commit the changes you added to the staging area.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 branches would be helpful in keeping your history organized because you can make different versions and have different saves. This helps you make one for a different language or experimental code. Branches help creat different versions without affecting the master version.
+How do the diagrams help you visualize the branch structure?
+Diagrams help me visuallize the branch structure because I can see where the new branch is made and what commit it broke off of.
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+the result of merging the two branches together results in one long combined branch. We represent the branch going off and then coming back.
