@@ -10,3 +10,6 @@ A fork is a clone from another person and it is on github. Forks are clones, but
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 The benefit of having a copy of the last known state of the remote stored locally because you can check if it will be a fast forward merge so you don't have to worry about it.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+It would be harder to collaborate without Github becuase you would have no means of communication. With git you can only work remotely, but with github you can work on the website and communicate.
