@@ -7,3 +7,6 @@ You might want to pull manually because you may not want the updated verson of c
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 A fork is a clone from another person and it is on github. Forks are clones, but on github. Clones are copies of a respository. Branches are different versions of code. You would use forks one github. You would use clone when putting it on a your computer, and you would make branches on your computer.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+The benefit of having a copy of the last known state of the remote stored locally because you can check if it will be a fast forward merge so you don't have to worry about it.
