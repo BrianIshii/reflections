@@ -13,3 +13,6 @@ The benefit of having a copy of the last known state of the remote stored locall
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 It would be harder to collaborate without Github becuase you would have no means of communication. With git you can only work remotely, but with github you can work on the website and communicate.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+You would want to make changes to a sepereate branch rather than directly on the master when you are messing  with code. This benefit will allow you to add to the code without breaking the master version
